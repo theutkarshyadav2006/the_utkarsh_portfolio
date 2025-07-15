@@ -134,7 +134,7 @@ const Hero = ({ navbarRef }: { navbarRef?: any }) => {
                   <div className="w-80 h-80 md:w-96 md:h-96 rounded-full p-2 shadow-2xl transition-all duration-500 group-hover:shadow-red-500/60 group-hover:scale-110 animate-pulse-slow" style={{background: `linear-gradient(45deg, #8b0000, #a00000, #8b0000)`}}>
                     <div className="w-full h-full rounded-full overflow-hidden transition-all duration-500 group-hover:bg-opacity-90" style={{backgroundColor: '#2e2e2e'}}>
                       <img 
-                        src="/prof2.png" 
+                        src="prof2.jpg" 
                         alt="Utkarsh Yadav" 
                         className="w-full h-full object-cover transition-all duration-500 group-hover:scale-110" 
                       />
